@@ -11,8 +11,9 @@ Inside this repository, you will find community submitted code-snippets and thei
 To contribute, just follow these steps:
 
 1. Fork this repo (you get a point just by forking!)
-2. Add/Update the repo
-3. Submit a pull request!
+2. Create a new branch on your fork
+3. Add/Update the repo
+4. Submit a pull request!
 
 That's it! More detailed contribution instructions can be found [here](CONTRIBUTING.md)
 
@@ -43,76 +44,84 @@ To participate in moderation, join the sndevs slack at https://sndevs.com/ and j
 
 Top 5% of contributors:
 earlduque.
-kmohit2809.
+R3J3NT.
 sumanthdosapati.
+kmohit2809.
 PranavBhagat18.
-danr2c2.
+alikuttyka.
 
 Top 10% of contributors:
 ishaanshoor.
-mak1A4.
 paigesndev.
-alikuttyka.
+danr2c2.
+niamccash.
+RahmanM.
 azeezgaa.
-smartcarleen.
+mak1A4.
 
 Top 25% of contributors:
-niamccash.
-R3J3NT.
-RahmanM.
-mr-swann.
+smartcarleen.
+hrobarikt.
 sn-ajb.
+mr-swann.
+devinvalencia.
 iar42.
-ReginaldFawcett.
-thorn91.
+ovarn.
 allenandreas.
 eriemer1.
+jonahpiascik.
 odinsride.
-ovarn.
+ReginaldFawcett.
+rmedved84.
 
 Top contributors (50%):
-rmedved84.
-jonahpiascik.
-jacebenson.
-Lacah.
+thorn91.
+vandna07.
+vasantharaja-natarajan.
 mgopw.
 23Thom.
 anillande90.
 ashu759.
-devinvalencia.
+dean-croaker.
 Irston.
-revantKulkarni.
-snamjosh.
-pratyushasndev.
+jacebenson.
+Lacah.
+litwi1rm.
+oasif.
+rafzk.
 
 Other contributors:
-vandna07.
-sauravsumankumar.
+revantKulkarni.
+pratyushasndev.
 MarcMouries.
-phr-nk.
-litwi1rm.
-mskoddow.
-src107.
-Decoder-Paul.
-rafzk.
+sauravsumankumar.
 anguspalmer.
+mskoddow.
+phr-nk.
+src107.
+snamjosh.
+aatrey882.
+akhoshnood.
+apple9000.
 ashleysnyder.
 bradtiltonnow.
+brichards99.
 ChecksumFailed.
+Decoder-Paul.
 dhruvii-powershell.
+j4rodm.
 jamesfoot.
 mevops.
 MihirRathod.
-oasif.
+moshjahan.
+physi.
 pratyushmp.
 Sagar-agarwal.
-SagarVijaykumar.
 saikumar-e.
 samwinchet.
 stwinkle.
-vasantharaja-natarajan.
+tanu-profile.
 kcimpulse.
-aatrey882.
 Anantharaman91.
 AnnaGould.
 askarthik.
@@ -127,31 +136,38 @@ coderdude207.
 codexpert247.
 Codjam.
 cwhits.
+dalestubblefield.
 davidkwhuang.
+DirkRedeker.
 eizzledizzle.
 fisikos.
+HackoDev1530.
 hardikvyasji.
 HarneetSital.
 hmadhsan.
 ishwarighule.
 j2clow.
-j4rodm.
 Jennylou777.
+kainturar.
 Karthick986.
 Keagnn.
+KokilaAbeysinghe.
 LarsAssen.
 LoicSanchez.
 LuisSepulveda21.
 m2santiago.
 Mexiprince.
 mikeroosa.
+miracc.
 mugiwaramenon.
 NayeemKaka.
 Nerdcode.
 Pratyusha418.
+retrokaj.
 RitheshGit.
 rohi-v.
 rverrips.
+SagarVijaykumar.
 salem769.
 shaoservicenow.
 Soulpancake000.
